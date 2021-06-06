@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProgramacionSemana19</string>
+    <string name="nombre">Escriba su nombre</string>
+    <string name="titulo">Pasar Datos</string>
+    <string name="Enviar">Enviar Dato</string>
+    <string name="vol">Regresar</string>
+</resources>
